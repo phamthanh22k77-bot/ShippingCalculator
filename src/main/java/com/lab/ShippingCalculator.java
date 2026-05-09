@@ -1,4 +1,4 @@
-package main.java.com.lab;
+package com.lab;
 
 public class ShippingCalculator {
     // t
